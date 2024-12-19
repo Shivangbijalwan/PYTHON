@@ -1,3 +1,3 @@
 name="abhi"
-for i in range name:
+for i in  name:
   print(i)
