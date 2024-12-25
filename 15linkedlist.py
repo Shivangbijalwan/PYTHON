@@ -21,6 +21,6 @@ node4.next = node5
 #printing the linked list
 current = node0
 while current is not None:
-    print(current.data , end = "->")
+    print(current.data , end = "  -> ")
     current = current.next
-print("None")
+
