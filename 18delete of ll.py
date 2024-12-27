@@ -12,7 +12,7 @@ node4 = Node(18)
 node5 = Node(20)
 
 # Connecting all nodes together
-head.next = node1
+head.next = node1 
 node1.next = node2
 node2.next = node3
 node3.next = node4
