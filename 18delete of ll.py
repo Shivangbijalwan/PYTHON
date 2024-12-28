@@ -40,7 +40,7 @@ current.next = current.next.next"""
 
 
 
-#printing the linked list
+#printing the linked list 
 current = head   # current is the pointer to the current node
 while current is not None:
     print(current.data , end = "  -> ")
