@@ -38,8 +38,6 @@ while current.next.next.data != 18:
 current.next = current.next.next"""
 
 
-
-
 #printing the linked list 
 current = head   # current is the pointer to the current node
 while current is not None:
