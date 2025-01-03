@@ -31,10 +31,18 @@ for i in L:
  product = product*i
 print(product)
 """here the time complicity is O(n)which is linear because the 
-loop is running n times where n is the length of the array """
+   loop is running n times where n is the length of the array """
 ##########################  Question end  #############################
 
+
 ##########################  Question no 2  #############################
+"""time complicity of the following code ?"""
+L = [1, 2, 3, 4, 5]
+for i in L:
+    for j in L:
+        print("({}, {})".format(i, j))
+"""here the time complicity is O(n^2) which 
+   is quadratic because the loop is nested"""
 ##########################  Question end  #############################
 
 ##########################  Question no 3  #############################
