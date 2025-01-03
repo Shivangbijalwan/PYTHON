@@ -45,11 +45,13 @@ for i in L:
    is quadratic because the loop is nested"""
 ##########################  Question end  #############################
 
+
 ##########################  Question no 3  #############################
 """what will happen here"""
 #Linear search
 """if the input size will increase the time will also increase """
 ##########################  Question end  #############################
+
 
 ##########################  Question no 4  #############################
 """time complicity of the following code ?"""
