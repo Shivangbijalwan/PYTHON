@@ -62,4 +62,5 @@ def intToStr(i):
       result= digits[i%10]+result
       i = i//10
       return result
+   """here the time complicity is O(log n) which is logarithmic"""
 ##########################  Question end  #############################
