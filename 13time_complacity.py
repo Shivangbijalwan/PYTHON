@@ -14,5 +14,7 @@ print(time.time()-start)
 
 #wrong approach 2
 #here we will take the code and count the how many operation taken by the code 
-
 #order of growth , it is the graph time and growth 
+
+#questions for time complaxity 
+
