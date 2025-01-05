@@ -66,3 +66,31 @@ def intToStr(i):
       return result
    """here the time complicity is O(log n) which is logarithmic"""
 ##########################  Question end  #############################
+
+##########################  Question no 5 #############################
+"""time complicity of the following code ?"""
+n = 1000
+inti,j,k = 0
+for (i=n/2;i<=n;i++){
+   for (j=2;j<=;j*2){
+      k = k+n/2
+   }
+}
+"""here the time complicity is n log n which is logarithmic """
+##########################  Question end  #############################
+
+
+
+##########################  Question no 6 #############################
+"""what will happen here"""
+#Binary search
+"""the time complicity of the binary search is O(Log n) because in binary searching 
+   we divide the array in half and then the half array in half till the outcome will shown"""
+##########################  Question end  #############################
+
+
+##########################  Question no 7 #############################
+"""tine complicity of the following code?"""
+#Binary search
+""" """
+##########################  Question end  #############################
