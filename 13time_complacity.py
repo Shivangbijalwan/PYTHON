@@ -67,16 +67,19 @@ def intToStr(i):
    """here the time complicity is O(log n) which is logarithmic"""
 ##########################  Question end  #############################
 
+
+
 ##########################  Question no 5 #############################
 """time complicity of the following code ?"""
 n = 1000
-inti,j,k = 0
-for (i=n/2;i<=n;i++){
-   for (j=2;j<=;j*2){
-      k = k+n/2
-   }
-}
-"""here the time complicity is n log n which is logarithmic """
+i, j, k = 0, 0, 0
+for i in range(n // 2, n + 1):
+    j = 2
+    while j <= n:
+        k = k + n // 2
+        j *= 2
+
+"""here the time complicity is O(n_log_n) which is logarithmic """
 ##########################  Question end  #############################
 
 
