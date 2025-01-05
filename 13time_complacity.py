@@ -90,7 +90,7 @@ for (i=n/2;i<=n;i++){
 
 
 ##########################  Question no 7 #############################
-"""tine complicity of the following code?"""
-#Binary search
+"""time complicity of the following code?"""
+L=[1,2,3,4,5]
 """ """
 ##########################  Question end  #############################
